@@ -9,8 +9,9 @@
 
 # KAKO JE IZGLEDAO GRUPNI RAD
 ## Osim što smo testirali znanje koje smo stekli tokom drugog polugodišta iz predmeta baze podataka naš rad na projektu "rent a car" baze podataka bio je i zabavan! Imali smo par sastanaka koje smo održavali online, koristeći alate za video-konferencije i dijeljenje ekrana. Sastanke bi započinjali razmjenjuju ideje i dijeleći saznanja koja smo stekli istražujući. Bilo je puno smijeha i kolektivnog učenja, jer smo otkrivali nove tehnike i alate zajedno. Dogovaranja su ponekad bila haotična, ali svi smo se trudili da saslušamo jedni druge i da pružimo podršku kad je to bilo potrebno. S obzirom da smo poprilično kasno krenuli ozbiljno sa radom na bazi, nije bilo puno vremena za opuštanje, ali smo na kraju bili zadovoljni rezultatom.
+
 # IZGLED BAZE PODATAKA
-## Nakon mnogo rada i truda, konačno smo završili našu "rent a car" bazu podataka! Sastoji se od osam različitih tabela, svaka sa svojim jasno definisanim poljima i međusobnim vezama. Unijeli smo oko 50 različitih unosa, popunjavajući bazu sa mnogo podataka o vozilima, korisnicima, rezervacijama i još mnogo toga. Baza je bogata informacijama koje su ključne za funkcionisanje "rent a car" servisa.  Iako je bilo izazovno upravljati svim tim podacima, krajnji rezultat je impresivan - imamo funkcionalnu bazu podataka.
+## Nakon mnogo rada i truda, konačno smo završili našu "rent a car" bazu podataka! Sastoji se od osam različitih tabela, svaka sa svojim jasno definisanim poljima i međusobnim vezama. Unijeli smo oko 15 različitih unosa, popunjavajući bazu sa mnogo podataka o vozilima, korisnicima, rezervacijama i još mnogo toga. Baza je bogata informacijama koje su ključne za funkcionisanje "rent a car" servisa.  Iako je bilo izazovno upravljati svim tim podacima, krajnji rezultat je impresivan - imamo funkcionalnu bazu podataka.
 
 
 # ZAŠTO JE KORISNA NAŠA BAZA PODATAKA?
