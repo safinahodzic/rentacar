@@ -26,4 +26,19 @@ WHERE Najam.UkupnaCijena = (
     FROM Najam
 );
 
+--4 Prikaži prosečnu cijeu najma za svaku kategoriju automobila:
 
+SELECT 
+     KategorijaAutomobila.NazivKategorije, 
+AVG(Najam.UkupnaCijena) AS ProsečnaCijenaNajma
+FROM KategorijaAutomobila
+JOIN Automobil ON KategorijaAutomobila.ID_Kategorije = Automobil.ID_Kategorije
+JOIN Najam ON Automobil.ID_Automobila = Najam.ID_Automobila
+GROUP BY KategorijaAutomobila.NazivKategorije;
+
+
+--5 Prikaži sve najmove koje je obavio određeni klijent:
+
+SELECT *
+FROM Najam
+WHERE ID_Klijenta = (SELECT ID_Klijenta FROM Klijent WHERE Ime = 'Safina');
